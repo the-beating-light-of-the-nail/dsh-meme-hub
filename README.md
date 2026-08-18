@@ -136,6 +136,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
 
   ![deepseek-harness-pet desktop pet in working state](showcase/dsh-harness-pet.jpg)
   *Left-click to drag, single click for the big task panel, Ctrl+scroll to zoom; read-only, uploads nothing — it sees every late-night line of code*
+- 🐋 **[dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume)** ★9 — An energetic whale girl: pat her head to raise affection, she grabs a laptop when you work and stays quiet late at night — 494 worker-bee dialogue lines, 30 achievements, pure frontend injection, zero telemetry
+
+  ![dsh-whale-musume whale-girl desktop pet](showcase/dsh-whale-musume.png)
+  *One-command bundle install, 38/38 CDP checks green — she really is working alongside you*
+
 
 ---
 
@@ -221,4 +226,4 @@ All images in this repository are excerpted from the respective open-source proj
 
 ---
 
-<p align="center"><b>31 projects listed · 23 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
+<p align="center"><b>32 projects listed · 24 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>

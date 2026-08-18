@@ -136,6 +136,11 @@
 
   ![deepseek-harness-pet 桌宠工作状态](showcase/dsh-harness-pet.jpg)
   *左键拖动、单击出大号任务面板、Ctrl+滚轮缩放；只读不上传，熬夜写的代码它都看在眼里*
+- 🐋 **[dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume)** ★9 —— 元气鲸鱼娘：摸头涨好感、开工抱笔记本、深夜不打扰，494 句打工人台词 + 30 个成就，纯前端注入零遥测
+
+  ![dsh-whale-musume 元气鲸鱼娘桌宠](showcase/dsh-whale-musume.png)
+  *bundle 一键安装，38 项 CDP 验收全绿——她是真的在陪你上班*
+
 
 ---
 
