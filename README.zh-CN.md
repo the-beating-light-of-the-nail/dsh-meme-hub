@@ -85,6 +85,11 @@
   ![dsh-reasoning-effort Codex 风格推理强度滑块](showcase/dsh-reasoning-effort.jpg)
   *off / high / max 三档，和 DSH 的 /model 命令同步；设置里一个开关，纯白按钮秒变奔跑大肥鱼*
 
+- ⏰ **[dsh-liangwengu](https://github.com/mozhuanzuojing/dsh-liangwengu)** ★0 —— 梁文谷提醒：按 DeepSeek API 定价高峰/空闲时段（北京时间）到点大喊——08:55 播报「梁文峰要来了，块跑啊！」，12:00 和 18:00 宣布「乡亲们，梁文峰走了！！可以出来了！+ 梁文谷 启动~~~」；30 分钟倒计时、血条煮水、修仙九境渡劫、真仙飞升全屏彩蛋。峰来了价格翻倍快跑，峰走了半价开薅
+
+  ![dsh-liangwengu 卡通形象](showcase/dsh-liangwengu.jpg)
+  *每天对着你的 API 账单大喊两次的卡通形象*
+
 ---
 
 ## 🎨 换皮区

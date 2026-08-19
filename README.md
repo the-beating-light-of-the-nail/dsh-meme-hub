@@ -85,6 +85,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-reasoning-effort Codex-style reasoning effort slider](showcase/dsh-reasoning-effort.jpg)
   *Three levels — off / high / max — synced with DSH's /model command; flip one switch in settings and the plain white button turns into a sprinting fat fish*
 
+- ⏰ **[dsh-liangwengu](https://github.com/mozhuanzuojing/dsh-liangwengu)** ★0 — DeepSeek API pricing peak/idle alert on Beijing time: a cartoon popup yells "Liang Wenfeng is coming, run!" at 08:55 and declares "Liangwengu is ONLINE!" at 12:00 and 18:00 — 30-minute countdowns, an HP bar that doubles as boiling water, a nine-realm cultivation ladder, full-screen ascension fireworks. Peak = price ×2, run; valley = half price, farm
+
+  ![dsh-liangwengu cartoon mascot](showcase/dsh-liangwengu.jpg)
+  *The mascot that screams at you twice a day about your API bill*
+
 ---
 
 ## Skins and Themes
