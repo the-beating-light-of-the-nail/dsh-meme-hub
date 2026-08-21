@@ -90,6 +90,8 @@
   ![dsh-liangwengu 卡通形象](showcase/dsh-liangwengu.jpg)
   *每天对着你的 API 账单大喊两次的卡通形象*
 
+- ⌚ **[liang-wenfeng-gu](https://github.com/chunfeng11221/liang-wenfeng-gu)** ★1 —— 把梁氏作息写进 harness 的适配器：上班时段（9-12 / 14-18）自动切梁文峰极简模式只留结论，下班恢复梁文谷正常话痨，08:50 准时提醒「快到梁文峰时间了，建议停下」。带模式提示框，零第三方依赖
+
 ---
 
 ## 🎨 换皮区

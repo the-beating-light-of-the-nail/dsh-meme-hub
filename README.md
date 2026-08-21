@@ -90,6 +90,8 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-liangwengu cartoon mascot](showcase/dsh-liangwengu.jpg)
   *The mascot that screams at you twice a day about your API bill*
 
+- ⌚ **[liang-wenfeng-gu](https://github.com/chunfeng11221/liang-wenfeng-gu)** ★1 — The Liang schedule as a harness adapter: terse Liang-Wenfeng mode during work hours (9-12 / 14-18), full Liang-Wengu chatter the rest of the day, and a punctual 08:50 warning — "Liang Wenfeng time is coming, wrap it up." Mode banner included, zero dependencies
+
 ---
 
 ## Skins and Themes
