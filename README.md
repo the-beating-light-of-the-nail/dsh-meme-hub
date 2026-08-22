@@ -207,6 +207,8 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-sticky-note notes interface](showcase/dsh-sticky-note.png)
   *Inspiration runs faster than the session — write it down first*
 
+- 🛠️ **[dsh-labnana](https://github.com/exoticknight/dsh-labnana)** ★0 — Image generation without leaving the chat: Labnana text-to-image / image-to-image / precise editing, NanoBanana Pro, GPT-Image-2, Wan2.7 and Seedream all in one plugin
+
 ---
 
 ## The No-Screenshot Club
