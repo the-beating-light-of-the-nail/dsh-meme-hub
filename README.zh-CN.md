@@ -207,6 +207,8 @@
   ![dsh-sticky-note 便签界面](showcase/dsh-sticky-note.png)
   *灵感比会话跑得快，先记下来再说*
 
+- 🛠️ **[dsh-labnana](https://github.com/exoticknight/dsh-labnana)** ★0 —— 正经生图插件：Labnana 文生图/图生图/精准编辑，NanoBanana Pro、GPT-Image-2、Wan2.7、Seedream 全家桶，对话里直接出图
+
 ---
 
 ## 📝 文字选手区
