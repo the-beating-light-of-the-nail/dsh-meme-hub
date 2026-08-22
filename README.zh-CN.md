@@ -92,6 +92,8 @@
 
 - ⌚ **[liang-wenfeng-gu](https://github.com/chunfeng11221/liang-wenfeng-gu)** ★1 —— 把梁氏作息写进 harness 的适配器：上班时段（9-12 / 14-18）自动切梁文峰极简模式只留结论，下班恢复梁文谷正常话痨，08:50 准时提醒「快到梁文峰时间了，建议停下」。带模式提示框，零第三方依赖
 
+- 🏛️ **[dsh-gov-portal](https://github.com/ExElectron/dsh-gov-portal)** ★20 —— 把 DSH 改造成中国地方政务办事大厅：深蓝渐变导航、红头通知跑马灯、DVD 屏保弹窗、「本站已被访问 000042 次」、流式输出完还给你盖个半透明「准予办结」红章。皮是 2008 年的，每个旋钮都 1:1 接着真实 Agent 能力
+
 ---
 
 ## 🎨 换皮区

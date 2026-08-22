@@ -92,6 +92,8 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
 
 - ⌚ **[liang-wenfeng-gu](https://github.com/chunfeng11221/liang-wenfeng-gu)** ★1 — The Liang schedule as a harness adapter: terse Liang-Wenfeng mode during work hours (9-12 / 14-18), full Liang-Wengu chatter the rest of the day, and a punctual 08:50 warning — "Liang Wenfeng time is coming, wrap it up." Mode banner included, zero dependencies
 
+- 🏛️ **[dsh-gov-portal](https://github.com/ExElectron/dsh-gov-portal)** ★20 — DSH reborn as a Chinese local-government service portal: deep-blue gradient nav, red-header notice tickers, DVD-screensaver popups, "this site has been visited 000042 times", and a translucent APPROVED stamp slamming down when your stream finishes. The chrome is 2008; every knob is wired 1:1 to real agent capabilities
+
 ---
 
 ## Skins and Themes
