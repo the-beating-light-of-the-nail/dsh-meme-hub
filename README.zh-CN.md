@@ -192,6 +192,11 @@
 
 - 🧭 **[dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone)** ★12 —— 会话里程碑导航条：右侧点状时间线，像看 Git 提交图一样一眼定位每次提问，一键跳转任何位置
 
+- 🎨 **[dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom)** ★11 —— 纯前端客制化七件套，模块随便单装：壁纸+毛玻璃主题（强调色自动取色）、自定义快捷键、用量统计、浮动历史条、消息 Markdown 渲染、插件市场、入场动效——本次更新的新模块「动效」让整个 Web 界面优雅起来
+
+  ![dsh-client-ui-custom 主题预览](showcase/dsh-client-ui-custom.png)
+  *六套主题预设开箱即用；所有功能默认关闭，不配置就和原生界面一模一样*
+
 - 🎯 **[dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat)** ★7 —— 给 dsh 加一个「聚焦会话」视图：屏蔽过程噪音，只看最终产出
 
   ![dsh-focus-chat 聚焦会话视图](showcase/dsh-focus-chat.png)

@@ -192,6 +192,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
 
 - 🧭 **[dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone)** ★12 — A milestone rail for your conversation: dotted timeline on the right, read it like a Git commit graph, jump to any question in one click
 
+- 🎨 **[dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom)** ★11 — Pure front-end customization in seven standalone modules: wallpaper + frosted-glass themes with auto accent colors, custom shortcuts, usage stats, a floating history strip, message Markdown rendering, a plugin marketplace, and entrance motion presets — this update's new motion module makes the web client glide
+
+  ![dsh-client-ui-custom theme preview](showcase/dsh-client-ui-custom.png)
+  *Six theme presets out of the box; every feature defaults to off, so unconfigured it stays identical to stock*
+
 - 🎯 **[dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat)** ★7 — A "focus chat" view for dsh: silence the process noise, show only final outputs
 
   ![dsh-focus-chat focus view](showcase/dsh-focus-chat.png)
