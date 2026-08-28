@@ -234,6 +234,10 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
 
 Built something new for DSH? **PRs welcome!** Skins, desktop pets, mini-games, or anything more abstract — attach the repo link and a one-line intro; bonus points for a hand-picked screenshot (projects without one wait in the No-Screenshot Club first).
 
+## 🔗 Related Sites
+
+- **[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/)** — DeepSeek whale-girl meme gallery: 128 curated quote-caption stickers, waterfall browsing, tag filters, one-click share cards. 蓝色大肥鱼表情包图库。
+
 ## Copyright
 
 All images in this repository are excerpted from the respective open-source projects' own READMEs and official preview materials; **copyright belongs to their original authors**. This repo is navigation and promotion only, and does not redistribute any source code or assets. If any inclusion infringes on your rights, open an issue and it will be removed promptly.
