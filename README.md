@@ -207,6 +207,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-web-review element annotation demo](showcase/dsh-web-review.jpg)
   *Give feedback like a designer: circle it, change it*
 
+- 🖥️ **[dsh-s7r](https://github.com/hunter118/dsh-s7r)** ★5 — Rebuilds DSH as a retro macOS / System 7 desktop: movable pixel windows, Workspace and Agent launcher, Finder, real zsh Terminal, global Find, Monitor, Scrapbook, persistent desktop aliases — nostalgia that can still ship code
+
+  ![dsh-s7r retro macOS System 7 desktop with Knowledge Desk, Finder, Monitor and Clock](showcase/dsh-s7r.png)
+  *A 1024 × 768 workday from 1991: Agents, files, terminal and system metrics all stay wired to the real Harness underneath*
+
 - 📝 **[dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note)** ★0 — Sticky notes on the composer toolbar: jot ideas as you go, auto-saved as Markdown, one click to send into the conversation
 
   ![dsh-sticky-note notes interface](showcase/dsh-sticky-note.png)
@@ -244,4 +249,4 @@ All images in this repository are excerpted from the respective open-source proj
 
 ---
 
-<p align="center"><b>32 projects listed · 24 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
+<p align="center"><b>37 projects listed · 25 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
