@@ -236,7 +236,7 @@ Built something new for DSH? **PRs welcome!** Skins, desktop pets, mini-games, o
 
 ## 🔗 Related Sites
 
-- **[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/)** — DeepSeek whale-girl meme gallery: 158 curated quote-caption stickers, waterfall browsing, tag filters, one-click share cards. 蓝色大肥鱼表情包图库。
+- **[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/)** — DeepSeek whale-girl meme gallery: 176 curated quote-caption stickers, waterfall browsing, tag filters, one-click share cards. 蓝色大肥鱼表情包图库。
 - **[deepseek-chan-meme-pack](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)** — the community repo behind the gallery: meme pack for the dsh-meme plugin (`dsh-meme-pack` topic), CDN hotlinks, and bilingual story submissions.
 
 ## Copyright
