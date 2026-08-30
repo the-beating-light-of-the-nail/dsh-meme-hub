@@ -236,7 +236,8 @@
 
 ## 🔗 相关站点
 
-- **[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/)** —— DeepSeek 蓝色大肥鱼表情包图库：128 张台词级梗图，瀑布流浏览、标签筛选、一键生成分享卡片
+- **[DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/)** —— DeepSeek 蓝色大肥鱼表情包图库：158 张台词级梗图，瀑布流浏览、标签筛选、一键生成分享卡片
+- **[deepseek-chan-meme-pack](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)** —— 图库的社区仓库：dsh-meme 插件表情包（topic `dsh-meme-pack`）、CDN 直链热链、双语梗科普投稿入口
 
 ## ©️ 版权说明
 
