@@ -175,6 +175,8 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![dsh-web-ui main interface](showcase/dsh-web-ui.png)
   *The task board runs on cron schedules; scan a QR code from your phone to take over the workspace*
 
+- 📱 **[dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)** ★326 — The pocket DSH: an Android shell wrapping a WebView UI over an embedded Termux runtime snapshot (node/git/bash/dsh bundled, unzip-and-run) — one APK and the full web agent really executes bash on your phone; keep-alive watchdog, SAF bridge, task notifications, online runtime updates, and a real ADB channel since 0.13
+
 - ⌨️ **[dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui)** ★252 — No official TUI yet? The community built one first: a Claude Code-style fullscreen terminal with a pixel-whale header, live status line, streaming thought expansion, double-Esc time travel — featured by the official WeChat account
 
   ![dsh-cc-tui Claude Code-style terminal interface](showcase/dsh-cc-tui.png)
@@ -250,4 +252,4 @@ All images in this repository are excerpted from the respective open-source proj
 
 ---
 
-<p align="center"><b>37 projects listed · 27 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
+<p align="center"><b>38 projects listed · 27 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>

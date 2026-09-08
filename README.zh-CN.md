@@ -175,6 +175,8 @@
   ![dsh-web-ui 主界面](showcase/dsh-web-ui.png)
   *任务看板支持 cron 定时执行，手机扫码就能远程接管工作区*
 
+- 📱 **[dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)** ★326 —— 口袋里的 DSH：安卓壳应用，WebView UI 覆盖内嵌 Termux 运行时快照（node/git/bash/dsh 全套解压即跑）——装一个 APK，完整 web agent 在手机上真跑 bash；保活看门狗、SAF 桥、任务完成通知、运行时在线更新，0.13 起还有真实 ADB 通道
+
 - ⌨️ **[dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui)** ★252 —— 官方还没出 TUI？社区先造了一个：Claude Code 风格全屏终端，像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 时间回溯，被官方公众号收录
 
   ![dsh-cc-tui Claude Code 风格终端界面](showcase/dsh-cc-tui.png)
@@ -250,4 +252,4 @@
 
 ---
 
-<p align="center"><b>收录 37 个项目 · 27 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
+<p align="center"><b>收录 38 个项目 · 27 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
