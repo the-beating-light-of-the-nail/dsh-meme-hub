@@ -250,4 +250,4 @@ All images in this repository are excerpted from the respective open-source proj
 
 ---
 
-<p align="center"><b>37 projects listed · 25 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
+<p align="center"><b>37 projects listed · 27 hand-picked screenshots</b><br><sub>The meme density is still rising</sub></p>
