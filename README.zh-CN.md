@@ -207,6 +207,11 @@
   ![dsh-web-review 网页元素批注演示](showcase/dsh-web-review.jpg)
   *设计师式提需求：圈哪里改哪里*
 
+- 🖥️ **[dsh-s7r](https://github.com/hunter118/dsh-s7r)** ★5 —— 把 DSH 重构成 retro macOS / System 7 桌面：可拖动像素窗口、工作区与 Agent 启动器、Finder、真实 zsh 终端、全局 Find、Monitor、Scrapbook、可恢复桌面快捷方式——复古归复古，代码照样能交付
+
+  ![dsh-s7r retro macOS System 7 桌面：Knowledge Desk、Finder、Monitor 和 Clock](showcase/dsh-s7r.png)
+  *一套 1024 × 768 的 1991 年工作台：Agent、文件、终端和系统资源都仍然接着真实 Harness*
+
 - 📝 **[dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note)** ★0 —— 编辑框工具栏上的便签：随手记点子，自动保存为 Markdown，一键发送到对话
 
   ![dsh-sticky-note 便签界面](showcase/dsh-sticky-note.png)
@@ -245,4 +250,4 @@
 
 ---
 
-<p align="center"><b>收录 31 个项目 · 23 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
+<p align="center"><b>收录 37 个项目 · 25 张精选截图</b><br><sub>整活浓度仍在上升中</sub></p>
