@@ -115,6 +115,11 @@
   ![gal-view Galgame 风格对话视图截图](showcase/gal-view.jpg)
   *DeepSeek 化身蓝发鲸鱼女仆，「所以主人要多对我说话才好」*
 
+- 🐋 **[whalechan-dsh-theme](https://github.com/online111111/whalechan-dsh-theme)** ★0 —— 鲸鱼娘同人海洋蓝主题：骑鲸 Logo、专属工具与权限护盾图标，页面悬浮开关一键切回原生，纯前端注入零污染
+
+  ![whalechan-dsh-theme 鲸鱼娘主题界面预览](showcase/whalechan-dsh-theme.png)
+  *海洋蓝清爽界面、全套二创小图标替换，自带 Agent 自动安装脚本*
+
 ---
 
 ## 🐳 赛博宠物区
