@@ -115,6 +115,11 @@ Prefer browsing over reading? All 28 picks live on one page with screenshots, ca
   ![gal-view visual novel chat view](showcase/gal-view.jpg)
   *DeepSeek as a blue-haired whale maid: "Please talk to me more, master"*
 
+- 🐋 **[whalechan-dsh-theme](https://github.com/online111111/whalechan-dsh-theme)** ★0 — Whale-chan ocean blue theme: riding-whale logo, dedicated tool and permission shield icons, floating switch to toggle native UI anytime, zero-pollution static injection
+
+  ![whalechan-dsh-theme preview](showcase/whalechan-dsh-theme.png)
+  *Ocean blue theme, full fan-art icon suite, with Agent-assisted installation*
+
 ---
 
 ## Cyber Pets
