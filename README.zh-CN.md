@@ -5,8 +5,8 @@
 [English](README.md) | 简体中文
 
 <p align="center">
-  <a href="https://dsh-meme-hub.cdqyfdbymn.me/">
-    <b>🌐 访问网站 — dsh-meme-hub.cdqyfdbymn.me</b>
+  <a href="https://dshmarket.dev/">
+    <b>🌐 访问网站 — dshmarket.dev</b>
   </a>
   <br><sub>浏览插件、整活、一键安装 —— 完整站点见下方</sub>
 </p>
