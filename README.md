@@ -31,9 +31,9 @@ What does the plugin architecture behind this 24-hour meme carnival actually loo
 
 [**china-ai-arbitrage.xyz · DSH's First 24 Hours: A Meme Census (companion long-read)**](https://www.china-ai-arbitrage.xyz/blog/dsh-meme-hub-24h)
 
-Prefer browsing over reading? All 28 picks live on one page with screenshots, categories and one-click install commands 👉
+Prefer browsing over reading? The full dsh plugin market is live — categories, star counts and one-click install commands 👉
 
-[**Install DeepSeek Harness (dsh) Plugins — 28 Community Picks**](https://www.china-ai-arbitrage.xyz/dsh-hub)
+[**dshmarket.dev — DeepSeek Harness Plugin Market**](https://dshmarket.dev)
 
 ---
 
