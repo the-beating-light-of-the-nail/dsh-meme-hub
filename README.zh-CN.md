@@ -162,6 +162,11 @@
   ![dsh-gomoku 五子棋对局界面](showcase/dsh-gomoku.png)
   *黑白双方的模型和思考档位可以分开调教，棋盘随手开关，摸鱼正事两不误*
 
+- 🎣 **[摸鱼发薪局](https://github.com/egg2023001-cmd/dsh-fish-pay-counter)** ★0 —— 等 AI 回答的空当，点一下桌面上的大肥鱼甩竿。等鱼漂变成金星再提竿，钓上来什么就晒什么。
+
+  ![金漂变成星星，正是提竿时机](showcase/dsh-fish-pay-counter.png)
+  *[试玩 1.7.0](https://github.com/egg2023001-cmd/dsh-fish-pay-counter/releases/tag/v1.7.0) · [晒出你这一竿](https://github.com/deepseek-ai/deepseek-harness/discussions/14485)*
+
 > 真正的摸鱼神器 **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7（18 款离线小游戏）因为 README 没放图，被安排在了下面的文字选手区。
 
 ---
