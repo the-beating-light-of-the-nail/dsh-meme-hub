@@ -162,6 +162,11 @@ Prefer browsing over reading? The full dsh plugin market is live — categories,
   ![dsh-gomoku match interface](showcase/dsh-gomoku.png)
   *Models and thinking budgets configurable per side; the board toggles in and out — slack off and stay productive, both at once*
 
+- 🎣 **[dsh-fish-pay-counter](https://github.com/egg2023001-cmd/dsh-fish-pay-counter)** ★0 — While the model thinks, click the desktop fish to cast. When the float turns into a gold star, reel in and show off whatever you caught.
+
+  ![A gold star on the float signals when to reel in](showcase/dsh-fish-pay-counter.png)
+  *[Play v1.7.0](https://github.com/egg2023001-cmd/dsh-fish-pay-counter/releases/tag/v1.7.0) · [Share your catch](https://github.com/deepseek-ai/deepseek-harness/discussions/14485)*
+
 > The true slack-off holy grail **[dsh-minigames](https://github.com/lhh010/dsh-minigames)** ★7 (18 offline mini-games) landed in the No-Screenshot Club below — its README ships without a single image.
 
 ---
